@@ -82,3 +82,4 @@ For the general framework of AudioCraft, please cite the following.
 
 When referring to a specific model, please cite as mentioned in the model specific README, e.g
 [./docs/MUSICGEN.md](./docs/MUSICGEN.md), [./docs/AUDIOGEN.md](./docs/AUDIOGEN.md), etc.
+# vibrato
