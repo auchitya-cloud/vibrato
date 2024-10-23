@@ -6,6 +6,8 @@
 AudioCraft is a PyTorch library for deep learning research on audio generation. AudioCraft contains inference and training code
 for two state-of-the-art AI generative models producing high-quality audio: AudioGen and MusicGen.
 
+FULL WEBAPP : https://github.com/ItsRayo/Vibrato/deployments 
+
 
 ## Installation
 Vibrato requires Python 3.9, PyTorch 2.0.0. To install AudioCraft, you can run the following:
